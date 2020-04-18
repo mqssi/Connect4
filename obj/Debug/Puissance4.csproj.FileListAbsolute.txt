@@ -1,0 +1,6 @@
+D:\COURSEPSI\B2\C#\Tps\Tp puissance 4\Puissance4\bin\Debug\Puissance4.exe.config
+D:\COURSEPSI\B2\C#\Tps\Tp puissance 4\Puissance4\bin\Debug\Puissance4.exe
+D:\COURSEPSI\B2\C#\Tps\Tp puissance 4\Puissance4\bin\Debug\Puissance4.pdb
+D:\COURSEPSI\B2\C#\Tps\Tp puissance 4\Puissance4\obj\Debug\Puissance4.csprojAssemblyReference.cache
+D:\COURSEPSI\B2\C#\Tps\Tp puissance 4\Puissance4\obj\Debug\Puissance4.exe
+D:\COURSEPSI\B2\C#\Tps\Tp puissance 4\Puissance4\obj\Debug\Puissance4.pdb
